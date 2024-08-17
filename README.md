@@ -2,6 +2,6 @@
 
 *Custom Lines:*
 
-https://github.com/EnterpriseExperience/RosesAreRedBaby/blob/main/CustomCoolLines.txt
+https://raw.githubusercontent.com/EnterpriseExperience/RosesAreRedBaby/main/CustomCoolLines.txt
 
 *Lines For Scripts, Or What Ever:*
